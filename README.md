@@ -6,6 +6,10 @@ Cube is a Next.js application built with TypeScript, Shadcn, Faker, Zustand, and
   <a href="https://cube-xi-seven.vercel.app" target="_blank">View Live Deployment</a>
 </p>
 
+## Demo
+
+https://github.com/user-attachments/assets/4c756405-2b32-402d-9a33-0291ce332b39
+
 ## Getting Started
 
 To get started with the Cube application, follow these steps:
